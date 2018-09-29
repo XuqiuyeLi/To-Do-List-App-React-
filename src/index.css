@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  background-color: #C2F4C2;
+  font-family: sans-serif;
+}
+
+#container {
+	background-color: #66CCFF;
+	display: flex;
+	justify-content: flex;
+}
+
+
+#top {
+	background-color: #FFF1F1;
+}
